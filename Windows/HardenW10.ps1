@@ -5,8 +5,11 @@
 ::
 ::
 ::#######################################################################
-
-
+::
+::#######################################################################
+:: Enable and Configure Internet Browser Settings
+::#######################################################################
+::
 :: Enable SmartScreen for Edge
 reg add "HKCU\SOFTWARE\Policies\Microsoft\MicrosoftEdge\PhishingFilter" /v EnabledV9 /t REG_DWORD /d 1 /f
 :: Enable Notifications in IE when a site attempts to install software
