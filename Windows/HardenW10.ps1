@@ -74,5 +74,11 @@ reg add "HKCU\Software\Microsoft\Office\16.0\Word\Options\WordMail" /v DontUpdat
 :: Enable and Configure General Windows Security Settings
 ::#######################################################################
 :: Disables DNS multicast, smart mutli-homed resolution, netbios, powershellv2, printer driver download and printing over http, icmp redirect
-:: Enables UAC and sets to always notify, Safe DLL loading (DLL Hijacking prevention), saving zone information, explorer DEP, explorer shell protocol protected mode
+:: Enables UAC and sets to always notify
 :: ---------------------
+::
+
+
+
+
+
