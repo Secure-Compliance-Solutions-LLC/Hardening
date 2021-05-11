@@ -13,7 +13,7 @@
 | HITRUST Level 1                   |                    |                    |                    |
 | HITRUST Level 2                   |                    |                    |                    |
 | HITRUST Level 3                   |                    |                    |                    |
-|                                   |                    |                    |                    |
+|Secure Compliance Solutions Script |                    |                    |                    |
 
 
 
@@ -28,7 +28,10 @@
 | HITRUST Level 1                   |            |                     |                     |
 | HITRUST Level 2                   |            |                     |                     |
 | HITRUST Level 3                   |            |                     |                     |
-|                                   |            |                     |                     |
+|Secure Compliance Solutions Script |            |                     |                     |
+
+
+
 
 # Other Tools
 
