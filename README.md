@@ -1,5 +1,7 @@
 # Hardening
 
+> ## Checkmarks are clickable
+
 ### Linux
 
 | Standard/Framework                | Linux Debian-Based | Linux Redhat-Based |
