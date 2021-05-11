@@ -4,16 +4,16 @@
 
 ### Linux
 
-| Standard/Framework                | Linux Debian-Based | Linux Redhat-Based |
-| --------------------------------- | ------------------ | ------------------ |
-| Fedramp Low (SP 800-53)           |                    |                    |
-| Fedramp Medium (SP 800-53)        |                    |                    |
-| Fedramp High (SP 800-53)          |                    |                    |
-| Center of Internet Security (CIS) |                    |                    |
-| HITRUST Level 1                   |                    |                    |
-| HITRUST Level 2                   |                    |                    |
-| HITRUST Level 3                   |                    |                    |
-|                                   |                    |                    |
+| Standard/Framework                | Linux Debian-Based | Linux Redhat-Based |Amazon Linux        |
+| --------------------------------- | ------------------ | ------------------ | ------------------ |
+| Fedramp Low (SP 800-53)           |                    |                    |                    |
+| Fedramp Medium (SP 800-53)        |                    |                    |                    |
+| Fedramp High (SP 800-53)          |                    |                    |                    |
+| Center of Internet Security (CIS) |                    |                    |                    |
+| HITRUST Level 1                   |                    |                    |                    |
+| HITRUST Level 2                   |                    |                    |                    |
+| HITRUST Level 3                   |                    |                    |                    |
+|                                   |                    |                    |                    |
 
 
 
