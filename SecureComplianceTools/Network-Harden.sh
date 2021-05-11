@@ -1,7 +1,14 @@
 #!/bin/bash
-
-
-
+#
+#
+#
+######################################
+# Testing if root...
+if [ $UID -ne 0 ]
+then
+    RED "You must run this script as root!" && echo
+    exit
+fi
 
 # Disable IP forwarding
 sed -i "s/#net.ipv4.ip_forward=1/net.ipv4.ip_forward=0/" /etc/sysctl.conf
