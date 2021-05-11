@@ -30,14 +30,9 @@
 | HITRUST Level 3                   |            |                     |                     |
 |                                   |            |                     |                     |
 
+# Other Tools
 
-
-
-
-
-
-
-
+- [HardenTools GUI](https://github.com/securitywithoutborders/hardentools)
 
 
 
