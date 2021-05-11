@@ -33,10 +33,5 @@
 
 
 
-# Other Tools
-
-- [HardenTools GUI](https://github.com/securitywithoutborders/hardentools)
-
-
 
 
