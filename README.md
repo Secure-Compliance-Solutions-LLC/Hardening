@@ -1,6 +1,6 @@
 ![](https://github.com/Secure-Compliance-Solutions-LLC/Hardening/raw/main/HardeningTools.png)
 
-> #### Checkmarks are clickable
+> #### :white_check_mark: below are clickable
 
 ### Linux
 
