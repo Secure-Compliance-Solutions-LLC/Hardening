@@ -9,7 +9,7 @@
 | NIST Low (SP 800-53)           |                    |                    |                    |
 | NIST Medium (SP 800-53)        |                    |                    |                    |
 | NIST High (SP 800-53)          |                    |                    |                    |
-| Center of Internet Security (CIS) |                    |                    |                    |
+| Center of Internet Security (CIS) |[:white_check_mark:](/Compliance-Linux/CIS)|[:white_check_mark:](/Compliance-Linux/CIS)|[:white_check_mark:](/Compliance-Linux/CIS)|
 | HITRUST Level 1                   |                    |                    |                    |
 | HITRUST Level 2                   |                    |                    |                    |
 | HITRUST Level 3                   |                    |                    |                    |
