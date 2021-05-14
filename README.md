@@ -24,7 +24,7 @@
 | Fedramp Low (SP 800-53)           |            |                     |                     |
 | Fedramp Medium (SP 800-53)        |            |                     |                     |
 | Fedramp High (SP 800-53)          |            |                     |                     |
-| Center of Internet Security (CIS) |[:white_check_mark:](/Windows/CIS)|[:white_check_mark:](/Windows/CIS)|[:white_check_mark:](/Windows/CIS)|
+| Center of Internet Security (CIS) |[:white_check_mark:](/Compliance-Windows/CIS)|[:white_check_mark:](/Compliance-Windows/CIS)|[:white_check_mark:](/Compliance-Windows/CIS)|
 | HITRUST Level 1                   |            |                     |                     |
 | HITRUST Level 2                   |            |                     |                     |
 | HITRUST Level 3                   |            |                     |                     |
