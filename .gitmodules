@@ -1,0 +1,3 @@
+[submodule "Third-Parties/HardeningKitty"]
+	path = Third-Parties/HardeningKitty
+	url = https://github.com/scipag/HardeningKitty.git
